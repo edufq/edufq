@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Eduardo Figueroa, Ingeniero Informático con más de 10 años de experiencia en desarrollo de software. Desde 2013, he trabajado en diversos proyectos utilizando herramientas como Visual Basic 6, C#, .NET, SQL Server, JavaScript y Excel, entre otros. Mi enfoque se centra en la creación de soluciones eficientes y escalables, siempre buscando optimizar procesos y mejorar la calidad del software.
+Soy Eduardo Figueroa, Ingeniero Informático con más de 10 años de experiencia en desarrollo de software. Desde 2013, he trabajado en diversos proyectos utilizando herramientas como Visual Basic 6, C#, .NET, SQL Server y JavaScript, entre otros. Mi enfoque se centra en la creación de soluciones eficientes y escalables, siempre buscando optimizar procesos y mejorar la calidad del software.
 
 Actualmente, estoy expandiendo mis conocimientos en nuevas tecnologías como Python, Next.js, React.js, Docker, microservicios y prácticas de CI/CD, con el objetivo de mantenerme actualizado y adaptarme a las últimas tendencias del desarrollo de software. Me apasiona aprender, experimentar con nuevas herramientas, y contribuir a proyectos innovadores que generen impacto.
 
