@@ -8,7 +8,6 @@ Actualmente, estoy expandiendo mis conocimientos en nuevas tecnologías como Pyt
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<eduardofquintana@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/eduardo-figueroa-quintana-7036183a/)**
 - Puedes visitar mi **[sitio web](https://wwww.eduardofigueroa.cl)**
 
